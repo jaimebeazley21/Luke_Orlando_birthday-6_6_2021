@@ -4,8 +4,10 @@
       alert ("Heyyyyyy!");
     </script>
     <style>
+      body {color: cyan; background-color: black;}
     </style>
   </head>
   <body>
+    Happy birthday, mf :)
   </body>
 </html>
