@@ -1,7 +1,7 @@
 <html>
   <head>
     <script>
-      alert ("Heyyyyyy!");
+      alert ("Read me!");
     </script>
     <style>
       body {color: cyan; background-color: black;}
